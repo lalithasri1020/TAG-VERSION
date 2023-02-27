@@ -12,3 +12,5 @@ changes
 enter
 345
 678
+version
+3.0
